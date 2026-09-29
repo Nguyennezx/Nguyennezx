@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="./github-header-banner.png" width="100%" alt="Nguyennezx banner" />
+  
 # Hi there, I'm Nguyennezx 👋
 
 ### An aspiring Backend Developer from Vietnam 🇻🇳
